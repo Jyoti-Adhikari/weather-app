@@ -1,3 +1,3 @@
 flask
 requests
-echo "gunicorn" >> requirements.txt
+gunicorn
